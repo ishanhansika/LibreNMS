@@ -17,7 +17,8 @@
 
 
 
-# LibreNMS Alarm System
+# LibreNMS Alarm System  
+## Git pull Directory >> alarm
 
 
 ## පියවර 1: Python සහ අවශ්‍ය Libraries ඉන්ස්ටෝල් කරගැනීම
